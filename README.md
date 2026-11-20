@@ -9,20 +9,23 @@ An English-only, responsive personal portfolio with a separate JavaScript calcul
 - `js/main.js` — theme, navigation, typing effect
 - `js/calculator.js` — calculator logic
 
-## Personalize before publishing
-1. Open `js/main.js` and change `PROFILE.name`.
-2. Open `index.html`, find `https://github.com/` and replace it with **your own GitHub profile URL**.
-3. In `index.html`, the Email button opens Gmail compose with `dw4ghreh@gmail.com` as recipient.
-4. Edit the About text directly in `index.html` if desired.
+## Project details
+- Name: Zaid Mohammad
+- University: Mutah University
+- GitHub: https://github.com/ZaidDwagrh
+- Live website: https://zaiddwagrh.github.io/personal-portfolio/
+- Source repository: https://github.com/ZaidDwagrh/personal-portfolio
+- The Email button opens Gmail compose with the recipient prefilled; the email address is not displayed on the page.
+
 
 ## Run locally
 Open `index.html` in a browser. For development, you can use VS Code and the Live Server extension (optional).
 
 ## Publish on GitHub Pages
-1. Create a new public repository on GitHub (e.g. `personal-portfolio`).
+1. Use the public repository `ZaidDwagrh/personal-portfolio`.
 2. Upload the **contents** of this folder to the repository root. `index.html` must be in the root.
 3. In repository **Settings → Pages**, choose **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
-4. Wait for deployment. The URL is usually `https://YOUR-USERNAME.github.io/personal-portfolio/`.
+4. Wait for deployment. Live site: https://zaiddwagrh.github.io/personal-portfolio/
 5. Test the homepage, calculator, theme switch on desktop and mobile.
 
 All asset links are relative, so the project works on a GitHub Pages project URL (not just a domain root).
@@ -55,5 +58,5 @@ On desktop, the navigation links are centered independently of the logo and them
 - Skills open selected learning references in new tabs.
 - Education opens Mutah University in a new tab; Field and Focus remain informational.
 - Calculator opens the local calculator page.
-- Personal Portfolio repository link is intentionally disabled until the repository is published.
+- Personal Portfolio links to https://github.com/ZaidDwagrh/personal-portfolio in a new tab.
 - GitHub opens the profile; Email opens Gmail compose with the recipient prefilled (address not displayed).
