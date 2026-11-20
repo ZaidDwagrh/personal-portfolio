@@ -1,5 +1,5 @@
 'use strict';
-// Change this name before publishing.
+// Portfolio profile information.
 const PROFILE = {
   name: 'Zaid Mohammad'
 }
